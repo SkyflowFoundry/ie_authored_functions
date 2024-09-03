@@ -1,10 +1,12 @@
-# ie_authored_functions
+# Functions authored by IE team
 A repository to store and maintain the functions authored by IE team
 
-A sample function template can be found here:
+
+### A sample function template can be found here:
 https://docs.skyflow-preview.com/functions-best-practices/#authoring
 
-Functions which are already on the docsite:
+
+### Functions which are already on the docsite:
 1. Age verification function: https://docs.skyflow-preview.com/functions-catalog-age-verification/#function-code
 
 2. Docusign function: https://docs.skyflow-preview.com/functions-catalog-docusign-upload/#function-code
@@ -14,7 +16,8 @@ Functions which are already on the docsite:
 4. Platron function: https://docs.skyflow-preview.com/functions-catalog-auth-platron/#function-code
 
 
-Functions inside the repository:
+
+### Functions inside the repository:
 
 1. Azul function:
 Need - Azul psp requires expiration date to be sent as a single field whereas user has two separate columns for expiration month and year. It also demonstrate how to connect to psp which requires MTLS via a function.
